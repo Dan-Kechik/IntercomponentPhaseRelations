@@ -1,0 +1,14 @@
+*~*
+*.tmp
+*.asv
+*.bak
+Результаты/
+*.jpg
+*.fig
+*.log
+*.mat
+*.wav
+out.*
+/Out/
+*.xlsx
+/In/
